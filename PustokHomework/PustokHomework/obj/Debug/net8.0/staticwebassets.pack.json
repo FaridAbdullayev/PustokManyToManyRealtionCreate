@@ -1,0 +1,1337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PustokHomework.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PustokHomework.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\css\\main.css",
+      "PackagePath": "staticwebassets\\admin\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\admin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\slider.js",
+      "PackagePath": "staticwebassets\\admin\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\Ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\Ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\Ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\Ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\best-seller-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\best-seller-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\home-2-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\home-2-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\home-2-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\home-2-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\home-3-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\home-3-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\home-3-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\home-3-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\home-4-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\home-4-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\home-4-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\home-4-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\home-slider-1-ai.png",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\home-slider-1-ai.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\home-slider-2-ai.png",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\home-slider-2-ai.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\promo-banner-contained.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\promo-banner-contained.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\promo-banner-full.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\promo-banner-full.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\promo-banner-mid.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\promo-banner-mid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\promo-banner-small-with-text.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\promo-banner-small-with-text.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\promo-banner-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\promo-banner-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\promo-banner-with-text-2--small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\promo-banner-with-text-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-big.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\promo-banner-with-text-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg-images\\promo-banner-with-text.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\image\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\icon\\author-logo.png",
+      "PackagePath": "staticwebassets\\assets\\image\\icon\\author-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\icon\\eng-flag.png",
+      "PackagePath": "staticwebassets\\assets\\image\\icon\\eng-flag.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\icon\\germany-flag.png",
+      "PackagePath": "staticwebassets\\assets\\image\\icon\\germany-flag.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\icon\\payment.png",
+      "PackagePath": "staticwebassets\\assets\\image\\icon\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\icon\\quotation.png",
+      "PackagePath": "staticwebassets\\assets\\image\\icon\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\logo--footer.png",
+      "PackagePath": "staticwebassets\\assets\\image\\logo--footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\best-seller-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\best-seller-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\blog-grid-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\blog-grid-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\blog-grid-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\blog-grid-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\blog-grid-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\blog-grid-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\blog-grid-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\blog-grid-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\blog-img-big-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\blog-img-big-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\blog-img-big-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\blog-img-big-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\blog-img-big-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\blog-img-big-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\brand-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\cat-gal-large.png",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\cat-gal-large.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\cat-gal-mid-2.png",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\cat-gal-mid-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\cat-gal-mid.png",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\cat-gal-mid.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\cat-gal-small-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\cat-gal-small-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\cat-gal-small.png",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\cat-gal-small.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\client-1.png",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\client-2.png",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\client-3.png",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\client-4.png",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\client-5.png",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\home-blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\home-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\home-blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\home-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\others\\home-side-promo.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\others\\home-side-promo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\cart-product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\cart-product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\image\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\03fc9d9b-4045-4a0e-8c0b-a13d25222bc0insan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\03fc9d9b-4045-4a0e-8c0b-a13d25222bc0insan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\2094e23e-4fe2-4523-93d1-705e1247c617insan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\2094e23e-4fe2-4523-93d1-705e1247c617insan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\2389367e-22d1-46be-b9b1-43c13c3a7877insan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\2389367e-22d1-46be-b9b1-43c13c3a7877insan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\252f5f14-2bf2-4e77-8cbc-7657374dd692insan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\252f5f14-2bf2-4e77-8cbc-7657374dd692insan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\25421b84-0602-452e-9a71-d46108d3aa50insan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\25421b84-0602-452e-9a71-d46108d3aa50insan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\3776e26f-8cac-4cca-9526-14252367b378insan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\3776e26f-8cac-4cca-9526-14252367b378insan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\40058069-f483-4b3e-ad3c-f4d73ded4ac3insan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\40058069-f483-4b3e-ad3c-f4d73ded4ac3insan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\40edac4d-3ab9-461c-ad54-de035551c19cinsan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\40edac4d-3ab9-461c-ad54-de035551c19cinsan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\49ef0fc1-dbcb-4659-aa71-9e7e7af8c8c7insan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\49ef0fc1-dbcb-4659-aa71-9e7e7af8c8c7insan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\4f49c652-dcd8-45fb-8efa-ea1fca79151ainsan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\4f49c652-dcd8-45fb-8efa-ea1fca79151ainsan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\53c01b8c-81f7-40fc-9c97-6186043caa3ainsan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\53c01b8c-81f7-40fc-9c97-6186043caa3ainsan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\587f3ced-a568-4a98-8059-c47230ee9347insan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\587f3ced-a568-4a98-8059-c47230ee9347insan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\5c075386-92e3-4911-bc2f-c7146c9932bbinsan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\5c075386-92e3-4911-bc2f-c7146c9932bbinsan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\5dc13a48-363c-4faf-b85b-625096651713insan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\5dc13a48-363c-4faf-b85b-625096651713insan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\5ed26f31-9375-407d-ab33-b5da353ae24ainsan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\5ed26f31-9375-407d-ab33-b5da353ae24ainsan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\6757416a-8427-4588-ba9e-12390054e64einsan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\6757416a-8427-4588-ba9e-12390054e64einsan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\6e91d640-8999-474c-b76b-a52b350cf70dinsan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\6e91d640-8999-474c-b76b-a52b350cf70dinsan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\6ef27245-6f2a-4720-819f-e899baf41142insan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\6ef27245-6f2a-4720-819f-e899baf41142insan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\6f5432df-9fa8-4be5-b84a-e6397de1abe2insan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\6f5432df-9fa8-4be5-b84a-e6397de1abe2insan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\71701cbf-72f0-490a-a280-bbbf075377fainsan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\71701cbf-72f0-490a-a280-bbbf075377fainsan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\79ee1c95-c027-4709-a3ff-7798eebb81edinsan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\79ee1c95-c027-4709-a3ff-7798eebb81edinsan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\82cf65be-f40e-4043-a121-fa4b0ae147b4insan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\82cf65be-f40e-4043-a121-fa4b0ae147b4insan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\83a028e7-d91a-40a6-8838-018b5c2dcaf7insan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\83a028e7-d91a-40a6-8838-018b5c2dcaf7insan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\a9284984-faf9-479a-bb48-89de1d960d18insan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\a9284984-faf9-479a-bb48-89de1d960d18insan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\abb17209-9e55-4e9c-83f1-c5d972cb3cc7insan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\abb17209-9e55-4e9c-83f1-c5d972cb3cc7insan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\ae16e7b9-cefd-46a6-8c59-35308c80f141insan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\ae16e7b9-cefd-46a6-8c59-35308c80f141insan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\c2b4c853-734a-40f4-8110-4639f9fc5ed0insan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\c2b4c853-734a-40f4-8110-4639f9fc5ed0insan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\c4123b48-4806-4bee-9281-5b13726f85fainsan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\c4123b48-4806-4bee-9281-5b13726f85fainsan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\c60162ef-37f3-4e37-b30f-142012a572a6insan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\c60162ef-37f3-4e37-b30f-142012a572a6insan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\cf0c82c8-db82-496a-9f12-f1b9f4d3553binsan2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\cf0c82c8-db82-496a-9f12-f1b9f4d3553binsan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\d0d30b4f-cba9-4c2b-9797-d14ff3460566insan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\d0d30b4f-cba9-4c2b-9797-d14ff3460566insan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\d2f4d12e-dfe7-4a2d-960e-2cbcb804e853insan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\d2f4d12e-dfe7-4a2d-960e-2cbcb804e853insan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\d883e6b1-ba51-4346-bae5-e2b50cf3e31ainsan1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\d883e6b1-ba51-4346-bae5-e2b50cf3e31ainsan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\e631b81e-6698-400e-8d71-36ec2ade825ainsan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\e631b81e-6698-400e-8d71-36ec2ade825ainsan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\f02a6ec2-fca0-41df-bdff-e5baa5930ea2insan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\f02a6ec2-fca0-41df-bdff-e5baa5930ea2insan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-10.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-11.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-13.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\book\\product-9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Backend\\homework10\\PustokHomework\\PustokHomework\\wwwroot\\uploads\\slider\\535cffc0-d8da-42e9-99a6-b85ec99ee830insan3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\slider\\535cffc0-d8da-42e9-99a6-b85ec99ee830insan3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PustokHomework.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PustokHomework.props",
+      "PackagePath": "build\\PustokHomework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PustokHomework.props",
+      "PackagePath": "buildMultiTargeting\\PustokHomework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PustokHomework.props",
+      "PackagePath": "buildTransitive\\PustokHomework.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
